@@ -1,0 +1,29 @@
+---
+title: Responsive Email Resources
+layout: interior
+---
+
+<%= javascript_include_tag  "plugins/wufoo" %>
+<div class="form">
+	<h1>Submit a Resource</h1>
+	<form id="form1" name="form1" class="wufoo topLabel page" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://responsiveemail.wufoo.com/forms/z1wvwtzf01hbxql/#public">
+		<fieldset>
+			<label for="field1">*Resource Name</label>
+			<input type="text" id="field1" name="field1" placeholder="Tool, Article, or Resource Name" required>
+
+			<label for="field2">*Category</label>
+			<input type="text" id="field2" name="field2" placeholder="What category should this go under?">
+
+			<label for="field3">*Resource Url</label>
+			<input type="url" id="field3" name="field3" placeholder="Where can people find this?" />
+		</fieldset>
+		
+		<fieldset>
+			<label for="field4">*Description</label>
+			<textarea name="field4" id="field4" rows="10" placeholder="What benefit does this tool or resource provide?"></textarea>
+		</fieldset>
+		<div class="submit">
+			<input id="saveForm" name="saveForm" type="submit" value="Submit Resource" />
+		</div>
+	</form>
+</div>

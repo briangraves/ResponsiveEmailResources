@@ -1,0 +1,6 @@
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+.sass-cache
+
+ .DS_Store
