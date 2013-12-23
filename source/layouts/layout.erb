@@ -9,7 +9,7 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
         <title><%= data.page.title || "Responsive Email" %></title>
-        <link rel="icon" type="icon" href="images/favicon.png">
+        <link rel="icon" type="icon" href="images/fav.png">
         <%= stylesheet_link_tag "all" %>
         <%= javascript_include_tag  "plugins/modernizr","init" %>
     </head>
@@ -26,6 +26,6 @@
         <%= partial "partials/footer" %>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-        <%= javascript_include_tag  "all" %>
+        <%= javascript_include_tag "plugins/analytics" %>
     </body>
 </html>
