@@ -65,12 +65,3 @@ configure :build do
   # Or use a different image path
   # set :http_path, "/Content/images/"
 end
-
-activate :deploy do |deploy|
-  deploy.build_before = true # default: false
-  deploy.method   = :ftp
-  deploy.host     = "ftp.brianleegraves.com"
-  deploy.path     = "/public_html/ResponsiveEmailResources"
-  deploy.user     = "briangra"
-  deploy.password = "@F903tz54"
-end
