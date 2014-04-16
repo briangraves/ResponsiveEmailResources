@@ -2,5 +2,5 @@
 /log/*.log
 /tmp
 .sass-cache
-
- .DS_Store
+.cache
+*.DS_Store
