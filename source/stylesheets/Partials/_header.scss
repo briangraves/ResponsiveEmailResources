@@ -36,6 +36,15 @@
 	&.interior {
 		a {
 			color: #fff;
+			&.logo { 
+				line-height: 2.38em; 
+				display: block; 
+				img {
+					display: inline-block;
+					vertical-align: middle;
+					margin-top: -3px;
+				}
+			}
 			&:hover { color: #fff; }
 		}
 		@media only screen and (min-width: 40em) { 

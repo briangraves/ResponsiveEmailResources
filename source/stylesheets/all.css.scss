@@ -20,6 +20,9 @@ body {
     font-weight: 300;
     color: $color-text;
 	background: $color-footer;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
 }
 
 h1, h2, h3, h4, h5, h6 { font-weight: 300; }
@@ -58,6 +61,7 @@ ul {
 .main {
 	padding: 2em 0;
 	background: #fff;
+	flex: 1;
 	@media only screen and (min-width: 60em) { padding: 3em 0 4em 0; }
 
 }
