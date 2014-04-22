@@ -28,7 +28,9 @@
             <div class="wrap">
                 <div class="form">
 	<h1>Submit a Resource</h1>
-	<form action="https://docs.google.com/forms/d/183EgWS5Ho_MSuy9xqiwUeqUt4ZEOx4vmxrb4a4ZsUFc/formResponse?embedded=true" method="POST" id="ss-form" target="_self" onsubmit="confirmation.html">
+	<script type="text/javascript">var submitted=false;</script>
+	<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='confirmation.html';}"></iframe>
+	<form action="https://docs.google.com/forms/d/183EgWS5Ho_MSuy9xqiwUeqUt4ZEOx4vmxrb4a4ZsUFc/formResponse?embedded=true" method="post" target="hidden_iframe" onsubmit="submitted=true;">
 		<fieldset>
 			<label aria-hidden="true" class="ss-q-item-label aria-todo" for="entry_1175817933">*Resource Name</label>
 			<input type="text" name="entry.1175817933" value="" class="ss-q-short" id="entry_1175817933" dir="auto" aria-label="Resource Name Tool, Article, or Resource Name " aria-required="true" required="" title="" placeholder="Tool, Article, or Resource Name" required>
