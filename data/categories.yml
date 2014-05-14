@@ -101,6 +101,10 @@
 
 - name: "Coding Tutorials &amp; Support"
   resources:
+    - name: "Can Email Be Responsive?"
+      url:  "http://alistapart.com/article/can-email-be-responsive"
+    - name: "Modern HTML Email"
+      url:  "http://modernhtmlemail.com/"
     - name: "Build Responsive Emails: A Tutorial"
       url:  "http://www.creativebloq.com/responsive-web-design/build-responsive-emails-2132830"
     - name: "Create a Simple Responsive Email"
@@ -122,6 +126,8 @@
 
 - name: "Case Studies & Stats"
   resources:
+    - name: "Artsy: Some Tips for Email Layout and Responsiveness"
+      url:  "http://artsy.github.io/blog/2014/03/17/some-tips-for-email-layout-and-responsiveness/"
     - name: "The Benefits of Responsive Email Design: A Crocs case study"
       url:  "http://www.degdigital.com/blog/the-benefits-of-responsive-email-design-a-crocs-case-study/"
     - name: "Deckers"
