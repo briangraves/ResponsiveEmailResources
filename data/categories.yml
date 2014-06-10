@@ -192,6 +192,8 @@
       url:  "https://github.com/mikel/mail"
     - name: "Fake SMTP"
       url:  "https://fakesmtp.net/"
+    - name: "Imap Html Preview"
+      url:  "https://github.com/brendanc/Imap-Html-Preview"
 
 - name: "Project Management"
   resources:
