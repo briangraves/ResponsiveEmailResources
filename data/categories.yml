@@ -27,6 +27,8 @@
       url:  "http://templates.mailchimp.com/"
     - name: "The Email Design Toolkit"
       url:  "http://www.exacttarget.com/products/email-marketing/email-design-toolkit"
+    - name: "Designing For Email"
+      url:  "https://shop.smashingmagazine.com/designing-for-email.html"
 
 - name: "Text Editors & Plugins"
   resources:
@@ -92,8 +94,8 @@
       url:  "https://github.com/TomFrankly/mailchimp-responsive-template"
     - name: "Really Simple Responsive Email Template"
       url:  "https://github.com/leemunroe/html-email-template"
-    - name: "DEG’s Middleman Email Template"
-      url:  "https://github.com/degdigital/MiddlemanEmailTemplate/tree/generic"
+    - name: "MiddleMail"
+      url:  "https://github.com/degdigital/MiddleMail"
     - name: "Middleman HAML Email Template"
       url:  "https://github.com/dannyprose/Middleman-HTML-Email-HAML"
     - name: "Grunt Email Boilerplate"
@@ -103,6 +105,14 @@
 
 - name: "Coding Tutorials &amp; Support"
   resources:
+    - name: "Improve Your Email Workflow with Modular Design"
+      url:  "http://www.smashingmagazine.com/2014/08/04/improve-your-email-workflow-with-modular-design/"
+    - name: "A workflow for responsive emails using Ink and Grunt"
+      url:  "https://medium.com/@victorgarcia/a-workflow-for-responsive-emails-using-ink-and-grunt-32d607879082"
+    - name: "The Hybrid Coding Approach"
+      url:  "http://labs.actionrocket.co/the-hybrid-coding-approach"
+    - name: "Creating a Centered, Responsive Design Without Media Queries"
+      url:  "https://www.campaignmonitor.com/blog/post/4240/creating-a-centred-responsive-design-without-media-queries"
     - name: "Can Email Be Responsive?"
       url:  "http://alistapart.com/article/can-email-be-responsive"
     - name: "Modern HTML Email"
@@ -128,8 +138,8 @@
 
 - name: "Case Studies & Stats"
   resources:
-    - name: "Artsy: Some Tips for Email Layout and Responsiveness"
-      url:  "http://artsy.github.io/blog/2014/03/17/some-tips-for-email-layout-and-responsiveness/"
+    - name: "Responsive Design A/B Testing Leads to a 130% Increase in Clicks"
+      url:  "https://litmus.com/blog/responsive-design-ab-testing-leads-to-a-130-increase-in-clicks"
     - name: "The Benefits of Responsive Email Design: A Crocs case study"
       url:  "http://www.degdigital.com/blog/the-benefits-of-responsive-email-design-a-crocs-case-study/"
     - name: "Deckers"
@@ -152,6 +162,8 @@
       url:  "http://www.emailmonday.com/mobile-email-usage-statistics"
     - name: "Going Responsive With Limited Resources: A Look at Edinburgh Bicycle’s Journey"
       url:  "https://litmus.com/blog/edinburgh-bicycle-journey-responsive-design-limited-resources"
+    - name: "Artsy: Some Tips for Email Layout and Responsiveness"
+      url:  "http://artsy.github.io/blog/2014/03/17/some-tips-for-email-layout-and-responsiveness/"
 
 - name: "Presentations"
   resources:
