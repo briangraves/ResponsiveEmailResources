@@ -115,6 +115,8 @@
       url:  "https://www.campaignmonitor.com/blog/post/4240/creating-a-centred-responsive-design-without-media-queries"
     - name: "Can Email Be Responsive?"
       url:  "http://alistapart.com/article/can-email-be-responsive"
+    - name: "Making Responsive HTML Emails"
+      url:  "http://www.benjystanton.co.uk/blog/making-responsive-html-emails/"
     - name: "Modern HTML Email"
       url:  "http://modernhtmlemail.com/"
     - name: "Build Responsive Emails: A Tutorial"
@@ -187,6 +189,8 @@
       url:  "http://www.slideshare.net/brianleegraves/coding-for-responsive-email"
     - name: "The Real Challenges of Responsive Email Design"
       url:  "https://medium.com/email-design/e1fc5d7b2809"
+    - name: "Responsive HTML Email"
+      url:  "http://www.slideshare.net/benjystanton/responsive-html-email"
 
 - name: "Testing"
   resources:
