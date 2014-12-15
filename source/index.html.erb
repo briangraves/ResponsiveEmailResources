@@ -4,8 +4,8 @@ title: Responsive Email Resources
 
 <ul>
 <% data.categories.each do |category| %>
-<li class="grid" id="<%= category.name %>">
-	<h2><a href="#<%= category.name %>"><%= category.name %></a></h2>
+<li class="grid" id="<%= category.url %>">
+	<h2><a href="#<%= category.url %>"><%= category.name %></a></h2>
 	<ul>
 		<% category.resources.each do |resource| %>
 		<li><a href="<%= resource.url %>" target="_blank"><%= resource.name %></a>

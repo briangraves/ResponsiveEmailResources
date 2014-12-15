@@ -1,4 +1,5 @@
 - name: "Design Tools"
+  url: "Design%20Tools"
   resources:
     - name: "Style Tiles"
       url:  "http://styletil.es/"
@@ -14,6 +15,7 @@
       url:  "https://github.com/alienresident/style-tiles"
 
 - name: "Design Patterns &amp; Guides"
+  url: "Design%20Patterns%20&amp;%20Guides"
   resources:
     - name: "Responsive Email Patterns"
       url:  "http://responsiveemailpatterns.com/"
@@ -30,7 +32,8 @@
     - name: "Designing For Email"
       url:  "https://shop.smashingmagazine.com/designing-for-email.html"
 
-- name: "Text Editors & Plugins"
+- name: "Text Editors &amp; Plugins"
+  url: "Text%20Editors%20&%20Plugins"
   resources:
     - name: "Sublime Text"
       url:  "http://www.sublimetext.com/"
@@ -51,7 +54,8 @@
     - name: "Litmus Builder"
       url:  "http://litmusbuilder.com/"
 
-- name: "Preprocessors & Tools"
+- name: "Preprocessors &amp; Tools"
+  url: "Preprocessors%20&amp;%20Tools"
   resources:
     - name: "Sass: CSS Preprocessor"
       url:  "http://sass-lang.com/"
@@ -74,7 +78,8 @@
     - name: "Grunt Email Builder"
       url:  "https://www.npmjs.org/package/grunt-email-builder"
 
-- name: "Frameworks & Templates"
+- name: "Frameworks &amp; Templates"
+  url: "Frameworks%20&amp;%20Templates"
   resources:
     - name: "Cerberus: Simple Patterns for Responsive Email"
       url:  "http://tedgoas.github.io/Cerberus/"
@@ -104,6 +109,7 @@
       url:  "https://github.com/Omgitsonlyalex/ZenithFramework"
 
 - name: "Coding Tutorials &amp; Support"
+  url: "Coding%20Tutorials%20&amp;%20Support"
   resources:
     - name: "Improve Your Email Workflow with Modular Design"
       url:  "http://www.smashingmagazine.com/2014/08/04/improve-your-email-workflow-with-modular-design/"
@@ -138,7 +144,8 @@
     - name: "Mobile Email: How Devices, Operating Systems, Apps and Engines Affect Rendering"
       url:  "https://litmus.com/blog/mobile-email-how-devices-operating-systems-app-engines-affect-rendering"
 
-- name: "Case Studies & Stats"
+- name: "Case Studies &amp; Stats"
+  url: "Case%20Studies%20&amp;%20Stats"
   resources:
     - name: "Responsive Design A/B Testing Leads to a 130% Increase in Clicks"
       url:  "https://litmus.com/blog/responsive-design-ab-testing-leads-to-a-130-increase-in-clicks"
@@ -168,6 +175,7 @@
       url:  "http://artsy.github.io/blog/2014/03/17/some-tips-for-email-layout-and-responsiveness/"
 
 - name: "Presentations"
+  url: "Presentations"
   resources:
     - name: "RWD Summit: Responsive HTML Emails"
       url:  "https://www.slideshare.net/secret/bqAfYEmEzBf0jn"
@@ -193,6 +201,7 @@
       url:  "http://www.slideshare.net/benjystanton/responsive-html-email"
 
 - name: "Testing"
+  url: "Testing"
   resources:
     - name: "Chrome Dev Tools"
       url:  "http://discover-devtools.codeschool.com/"
