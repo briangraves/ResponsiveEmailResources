@@ -87,7 +87,7 @@
       url:  "https://github.com/mailchimp/Email-Blueprints"
     - name: "Ink: A Responsive Email Framework"
       url:  "http://zurb.com/ink/"
-    - name: "Sassy Ink"
+    - name: "Sassy Ink: The Unofficial Sass port of Zurb's Ink"
       url:  "https://github.com/faustgertz/sassy-ink"
     - name: "Antwort: Responsive Layouts for Email"
       url:  "http://internations.github.io/antwort/"
